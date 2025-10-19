@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Enhancer",
+  "description": "A web application where users can input a basic or vague prompt, and the system automatically enhances it by making it more detailed, creative, and structured—suitable for use in AI tools, writing assistants, or coding assistants.",
+  "requestFramePermissions": []
+}
